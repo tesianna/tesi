@@ -1,0 +1,26 @@
+\begin{thebibliography}{}
+
+\bibitem[\UnexpandableProtect\SCcite{Abrahamsson
+  et~al.}{2002}]{Abrahamsson2002}
+Abrahamsson, P., O.~Salo, J.~Ronkainen, and J.~Warsta.
+\newblock 2002.
+\newblock \textitswitch{Agile software develpment methods. Review and
+  analysis}.
+\newblock VTT Publications, Oulu.
+
+\bibitem[\UnexpandableProtect\SCcite{Basili, Caldiera, and
+  Rombach}{1994}]{Basili1994}
+Basili, V., G.~Caldiera, and D.~Rombach.
+\newblock 1994.
+\newblock \Wrapquotes{The Goal Question Metric Approach}.
+\newblock In   \textitswitch{Encyclopedia of Software Engineering}.
+\newblock Wiley.
+
+\bibitem[\UnexpandableProtect\SCcite{Corbin and Strauss}{1990}]{Corbin1990}
+Corbin, Juliet, and Anselm Strauss.
+\newblock 1990.
+\newblock \Wrapquotes{Grounded Theory Research: Procedures, Canons, and
+  Evaluative Criteria}.
+\newblock \textitswitch{Qualitative Sociology}  13, no.~1.
+
+\end{thebibliography}

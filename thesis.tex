@@ -1,0 +1,188 @@
+\documentclass[11pt,a4paper,oneside]{book}
+
+\usepackage[latin1]{inputenc}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{achicago}
+\usepackage{charter}
+\usepackage[number=none]{glossary}
+\usepackage{listings}
+
+\lstset{basicstyle=\tt, identifierstyle=\tt, commentstyle=\tt, stringstyle=\tt, keywordstyle=\tt, language=Java, numbers=left, numberstyle=\tiny, numbersep=5pt, tabsize=2, showtabs=false, showspaces=false, showstringspaces=false, prebreak=\mbox{\tiny$\searrow$}, breakindent=0pt, breaklines, breakautoindent=true, captionpos=b}
+
+\makeglossary
+\oddsidemargin 2cm
+ 
+\addto\captionsenglish{
+  \renewcommand{\contentsname}%
+    {Introduzione}%
+}
+
+\addto\captionsenglish{\renewcommand{\chaptername}{Capitolo}}
+
+\begin{document}
+\frontmatter
+
+% define here the properties of the title page
+\def\title{Title of the thesis}
+\def\author{Name of the student}
+\def\advisor{Name of the supervisor}
+\def\date{July, 2013}
+
+\begin{titlepage}
+\vspace{30pt}
+\begin{center}
+\Large UNIVERSIT\`A DEGLI STUDI DI VERONA\\Scuola Provinciale Superiore Sanit\`a\\\vspace{40pt}
+Corso di Laurea in INFERMIERISTICA\\Sede di Bolzano\\\vspace{30pt} {\huge\title}\\\vspace{30pt}
+\end{center}
+
+\vspace{30pt}
+
+\begin{flushleft}
+Relatore
+Prof \\....\\
+\vspace{15pt}
+Correlatore\\
+Prof ....
+\end{flushleft}
+
+\vspace{15pt}
+
+\begin{flushright}
+Laureando\\
+Anna Fellin
+\end{flushright}
+
+\vspace{30pt}
+
+\begin{center} Anno Accademico \\ 2014-2015 \end{center}
+
+\end{titlepage}
+
+\tableofcontents
+
+\mainmatter
+
+%%%%%%%%%%%%%% ABSTRACT %%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter*{Abstract}
+
+Here goes the abstract...
+
+%%%%%%%%%%%%%% ABSTRACT END %%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%% INTRODUZIONE %%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter*{Introduzione}
+L'alimentazione assume nella societ\`a odierna una grande importanza e diversi significati, da quello fisiologico a quello sociale. Una comunit\`a si esprime attraverso la propria cultura culinaria e l'incontro di una famiglia avviene a tavola davanti a un buon piatto. La madre che nutre il proprio figlio, \`e simbolo di amore e consolida il forte legame tra i due. Con il passare degli anni sar\`a poi il figlio a nutrire la mamma ed \`e proprio questo il gesto che per molti rappresenta il prendersi cura della persona cara ormai impossibilitata ad autogestirsi. 
+
+Continui progressi in ogni ambito, compreso quello sanitario, caratterizzano la nostra epoca e pongono l'uomo di fronte a quesiti di cui prima non aveva bisogno di trovare le risposte. Un esempio concreto \`e la nutrizione artificiale, che trova indicazione nel rischio di apporto insufficiente di alimenti per via orale e nella malnutrizione conclamata. 
+La domanda che ci poniamo non riguarda l'efficacia di questo intervento nel caso in cui esso serva per la guarigione del paziente, ma piuttosto se la nutrizione artificiale debba essere intrapresa anche in quei pazienti che si trovano in uno stato avanzato di malattia con aspettativa di vita limitata.
+Un tempo molte patologie portavano velocemente alla morte, mentre oggi l'impiego di determinate apparecchiature e di cure farmacologiche permette di allungare la sopravvivenza. Il morire \`e un argomento sempre pi\`u difficile da trattare e l'uomo impiegando mezzi come la nutrizione artificiale spesso cerca di ritardarlo. L'aspettativa di vita si \`e quindi allungata rispetto ad un tempo, ma sono anche aumentate le persone che vivono una parte della loro vita con una diagnosi terminale e in uno stato in cui la malattia terminale si manifesta. 
+Sempre pi\`u spesso sono i familiari e i medici a trovarsi di fronte alle scelte legate all'alimentazione del paziente terminale, domandandosi se l'intraprendere la nutrizione artificiale sia nel reale interesse della persona. Vissuti personali, credenze religiose, appartenenze culturali vanno ad influenzare l'opinione dei professionisti sanitari, che accompagnano la scelta decisionale del paziente o dei familiari. 
+
+In letteratura sono presenti diversi studi che cercano di dare risposta alla domanda se considerare la nutrizione artificiale un'assistenza ordinaria di base da garantire sempre e a tutti in qualsiasi occasione o invece una terapia medica indicata solo in determinate situazioni. Molti riportano evidenze scientifiche sulla decisione di intraprendere la nutrizione artificiale nei pazienti terminali, concentrandosi sul rapporto rischio/beneficio dell'intervento. 
+Sono stati scritti diversi documenti riguardanti la nutrizione artificiale da parte di istituzioni laiche e religiose, da societ\`a scientifiche sia a livello italiano che internazionale, andando ad avvalorare una delle tue due tesi in questione. 
+
+L'etica europea trova le sue radici nel codice etico di Ippocrate, che si basava sui principi di beneficienza e non maleficenza.  Solo nel ventesimo secolo si sono delineati due nuovi principi, quello dell'autonomia e della giustizia. Questi quattro principi sono la base dell'etica medica definita oggi bioetica, che ha visto lo svilupparsi di diverse correnti di pensiero. 
+Il dibattito in campo etico sul giusto impiego della nutrizione artificiale \`e tuttora molto acceso e vede lo schieramento di teorie discordanti. Esso vede il fronteggiarsi di due linee di pensiero e il concretizzarsi di due diversi approcci nei confronti della nutrizione artificiale nel paziente terminale. Da una parte l'impiego della nutrizione artificiale nei pazienti terminali \`e considerato una forma di accanimento terapeutico, quindi una terapia gravosa, inutile e inefficacie per il paziente, considerandolo un intervento sproporzionato al risultato terapeutico. La sospensione o la mancata intrapresa di essa \`e invece considerata dall'altra corrente di pensiero come una forma di eutanasia passiva, sospendendo le cure del paziente, compresa la nutrizione artificiale, si provoca volontariamente la sua morte. 
+
+Lo scopo di questa revisione narrativa della letteratura non \`e di delineare una giusta teoria etica e di dedurne regole da applicare in campo pratico, ma vuole illustrare quelli che sono i diversi approcci dell'utilizzo della nutrizione artificiale nei pazienti a fine vita. Aiuti nella pratica assistenziale per professionisti e anche per gli stessi pazienti e i loro familiari possono essere ricavati a partire da teorie etiche, da evidenze scientifiche, da episodi attuali e passati, da pareri di istituzioni religiose e societ\`a scientifiche, tenendo anche in considerazione quello che \`e l'aspetto legislativo del nostro paese e quello del contesto europeo in cui l'Italia si trova. 
+La conoscenza delle migliori evidenze in ambito scientifico e la valutazione del singolo paziente \`e fondamentale per stabilire  se vi \`e l'indicazione alla nutrizione artificiale. 
+
+
+%%%%%%%%%%%%%% INTRODUZIONE END%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\chapter{Introduzione alla nutrizione artificiale}
+\label{sec:IntroduzioneAllaNutrizioneArtificiale}
+
+Nel linguaggio comune i due termini alimentazione e nutrizione sono usati erroneamente come sinonimi. Secondo FESIN (Federazione delle Societ\`a Italiane di Nutrizione) con la parola nutrizione si intende l'uso dei nutrienti e di altre sostanze di interesse nutrizionale da parte dell'organismo umano in relazione ai processi metabolici per la crescita, lo sviluppo e le funzioni dell'organismo. Con tale termine inoltre viene indica anche la disciplina che studia l'essenzialit\`a e i bisogni dei nutrienti nelle varie condizioni di et\`a, di sesso e di vita dell'individuo. 
+L'alimentazione \`e l'atto mediante il quale l'individuo apporta energia e nutrienti all'organismo attraverso l'assunzione di alimenti naturali, \`e una scelta e un consumo consapevole da parte dell'individuo. \'E influenzata da fattori biologici, relazionali, psicologici, sensoriali e socioculturali, che determinano uno stile alimentare diverso e adatto ad ogni individuo. 
+Con il termine nutrizione artificiale (NA) sono indicate tutte quelle modalit\`a, mediante le quali \'E possibile prevenire o correggere la malnutrizione in pazienti in cui l'alimentazione naturale \'E compromessa, temporaneamente o permanentemente, a causa di una sottostante condizione di malattia o dei suoi esiti. 
+
+
+\section{Indicazioni e controindicazioni alla nutrizione artificiale secondo le Linee Guida SINPE}
+
+La Societ\`a Italiana di Nutrizione Parenterale ed Enterale (SINPE) ha elaborato le linee guida per l'impiego della nutrizione artificiale, sulla base delle conoscenze scientifiche disponibili in letteratura. Come espresso dal Dottor Marco Zanello, Presidente SINPE, le Linee Guida non rappresentano un vincolo, ma piuttosto un autorevole punto di riferimento, al fine di assistere i professionisti e gli utenti nell'assumere decisioni sulla gestione appropriata di specifiche condizioni cliniche e al fine di garantire abilit\'a, comportamenti e trattamenti appropriati, efficaci, efficienti, sicuri ed etici. 
+Situazioni cliniche nelle quali la nutrizione artificiale dovrebbe essere effettuata: 
+1) Malnutrizione severa o moderata (calo ponderale $>$ 10\% negli ultimi 6 mesi) con apporto alimentare intraospedaliero previsto o stimato come insufficiente ($<$ 50\% del fabbisogno) per un periodo superiore a 5 giorni. In questo caso l'obiettivo della NA \`e la correzione della malnutrizione gi\`a esistente.
+2) Stato nutrizionale normale ma:
+- evidente rischio nutrizionale
+- stima o previsione di insufficiente nutrizione orale per almeno 10 giorni
+- ipercatabolismo grave (perdita azotata $>$ 15 g/die)
+- ipercatabolismo moderato (perdita azotata compresa tra 11 e 15 g/die) con previsione di insufficiente nutrizione orale per pi\`u di 7 giorni 
+- alterazioni dell'assorbimento, del transito intestinale o della digestione del cibo nelle sue varie fasi, gravi e non rapidamente reversibili (entro 10 giorni). 
+In questi casi l'obiettivo della NA \`e la prevenzione della malnutrizione e/o il controllo del catabolismo. 
+La NA non \`e indicata quando la durata prevista dell'intervento \'E inferiore a 5 giorni o quando, in un paziente ben nutrito normocatabolico, il periodo di inadeguato apporto alimentare previsto per via orale \`e inferiore a 10 giorni (SINPE, 2002). 
+
+
+\section{Indicazioni alla Nutrizione Enterale e Parenterale }
+
+La NA comprende:
+- la nutrizione enterale (NE), modalit\`a di nutrizione artificiale mediante la quale i nutrienti in forma prevalentemente complessa sono somministrati nello stomaco o nell'intestino attraverso l'uso di apposite sonde o stomie
+- la nutrizione parenterale (NP), modalit\`a di nutrizione artificiale mediante la quale i nutrienti in forma semplice vengono somministrati attraverso una vena periferica o centrale in pazienti in cui la funzionalit\`a del tratto intestinale \'E compromessa (FESIN, 2010).
+Come affermato nelle Linee Guida SINPE e ASPEN (Amercican Society for Parenteral and Enteral Nutrition) la modalit\`a di prima scelta, se non controindicata, \`e la NE. I vantaggi rispetto alla NP sono il mantenimento dell'integrit\`a anatomofunzionale della mucosa intestinale, il migliore utilizzo dei substrati nutritivi, la facilit\'a e sicurezza di somministrazione e il minor costo. 
+Secondo le Linee guida SINPE (2002) la scelta dell'accesso enterale ottimale deve comprendere sia lo stato clinico del paziente, sia l'accessibilit\`a e le capacit\`a di assorbimento del suo apparato digerente, sia infine la durata prevista del trattamento nutrizionale. 
+L'infusione di nutrienti in sede prepilorica, cio\`e nello stomaco, necessita che il paziente abbia una normale capacit\`a di svuotamento gastrico, normale riflesso del vomito e della tosse; mentre l'infusione postpilorica \`e indicata in presenza di esofagite da reflusso, di pregressi episodi di aspirazione nelle vie aeree, di gastroparesi, di ostruzione gastrica e quando si programma una nutrizione enterale precoce dopo interventi chirurgici maggiori sul tratto digestivo superiore. 
+Quando l'impiego della NA \`e previsto per un tempo inferiore a 30 giorni, non vi \`e rischio di aspirazione della miscela nelle vie aeree e non vi \`e stenosi invalicabile delle alte vie digestive \`e indicato l'impiego della sonda naso-enterica (naso-gastrica, duodenale, digiunale). 
+Il posizionamento della sonda \`e pi\`u semplice e meno invasivo rispetto a quello della stomia. Solitamente la sonda nasogastrica viene posizionata con metodo passivo, lasciandola avanzare spontaneamente attraverso il cavo orale fino allo stomaco. 
+Quando si prevede una durata superiore a quattro settimane, quando stabilito che il paziente non potr\`a pi\`u riprendere l'alimentazione orale e quando vi \`e stenosi invalicabile delle alte vie digestive, \`e indicato il confezionamento di una stomia.
+Per trattamenti a lungo termine l'accesso enterale pi\`u utilizzato \`e la gastrostomia, posizionata per via endoscopica (PEG o percutaneous endoscopic gastrostomy) e meno frequentemente per via chirurgica o radiologica. 
+In presenza del rischio di reflusso gastroesofageo e polmonite da reflusso, o quando lo stomaco non sia accessibile o utilizzabile per presenza di ulcera, neoplasia o esiti di pregressi interventi \`e indicata la digiunostomia, la quale pu\`o essere confezionata o in corso di intervento chirurgico o in anestesia locale o per via percutanea endoscopica (PEJ, percutaneous endoscopic jejunostomy). 
+In caso di inadeguato assorbimento intestinale o di compromissione del transito intestinale \`e indicato l'impiego della nutrizione parenterale. La NP prevede l'introduzione direttamente nel torrente circolatorio di substrati nutrizionali in forma sterile. I substrati non passando attraverso il canale gastroenterico devono essere necessariamente allo stato elementare o semi-elementare, perché non vengono sottoposi al complesso sistema enzimatico, a cui invece sono sottoposti gli alimenti che attraversano il tratto gastrointestinale. L'introduzione nel torrente circolatorio dei liquidi nutrizionali prevede il posizionamento di un catetere venoso periferico o centrale, distinguendo cos\'i la NPP (Nutrizione Parenterale periferica) e la NPC (Nutrizione Parenterale Centrale).
+L'utilizzo di un accesso venoso centrale permette di somministrare nutrienti a concentrazioni pi\`u elevate (osmolarit\`a superiore agli 800 mOsm/l) e volumi di liquidi maggiori e assicura una maggiore stabilit\'a dell'accesso rispetto all'impiego di un catetere venoso periferico. L'infusione periferica quindi comporta necessariamente il contenimento dell'osmolarit\`a della soluzione, con conseguente limitazione degli apporti energetici ed elettrolitici e inoltre comporta il posizionamento di un nuovo accesso venoso ogni 72-96 ore o pi\`u spesso in caso di occlusione. 
+La scelta viene fatta in base alla durata dell'alimentazione artificiale, al bisogno nutrizionale del paziente e al patrimonio venoso del paziente. La NPP \`e usata principalmente per integrare la nutrizione enterale o orale che non copre i fabbisogni del paziente e per trattamenti previsti per un periodo inferiore ai 15 giorni, mentre la via centrale consente di proseguire la NP per lunghi periodi. 
+
+
+\section{Complicazioni associate alla nutrizione artificiale}
+
+L'impiego della nutrizione artificiale \`e legato a diverse possibili complicanze, sia per quanto riguarda l'utilizzo della via parenterale sia per quella enterale. 
+Di seguito nella tabella sono riportate le complicanze associate alla nutrizione artificiale (Stephen M. W., 2000).
+
+%%%%% TODO: TABELLA %%%%
+
+Le complicazioni associate alla NP sono legate principalmente all'inserimento e al mantenimento dell'accesso venoso centrale (Winter S. M. et al., 2000). Nello studio di Cobb D.K. et al. (1992) vengono monitorizzati gli accessi venosi in 160 pazienti in terapia intensiva con una durata media di 14 giorni di utilizzo del catetere. Complicazioni si sono verificate nel 15\% dei pazienti, infezione del torrente circolatorio nel 4% degli accessi venosi e pneumotorace nel 5\% degli inserimenti del catetere. 
+La nutrizione enterale, che \`e generalmente considerata meno invasiva e che presenta maggiori vantaggi rispetto alla via parenterale, \`e anche associata a diverse morbilit\`a (Stephen M. W., 2000). La NE presenta complicazioni moderate e severe, che posso essere di tipo meccanico, gastrointestinale, metabolico o infettivo. Tra le complicanze minori della NE troviamo la distensione addominale, il dolore, la nausea e il vomito (Tapia J. et al., 1999).
+Ciocon J. O. et al. (1988) valuta in uno studio prospettico le complicanze associate alla NE nei pazienti anziani con disturbi della deglutizione e rischio d'aspirazione. Il 46\% dei pazienti presenta durante lo studio polmonite d'aspirazione, il 64\% presenta agitazione con conseguente auto-estubazione del tubo per la nutrizione durante le prime due settimane del trattamento, solo il 24\% dei pazienti non presenta complicazioni minori o maggiori durante le prime due settimane. 
+Entrambe le vie di nutrizione artificiale possono portare a complicanze severe, come ad esempio la sindrome da Rialimentazione dovuta prevalentemente al deficit di fosforo, che pu\`o causare gravi complicanze cardiopolmonari e neurologiche come lo scompenso cardiaco, l'edema periferico, convulsioni e coma, fino a provocare il decesso. Queste complicanze possono inoltre essere una concausa nel favorire un'alterazione della funzione di organi quali fegato, rene, polmone, cuore, osso (SINPE, 2002).
+Sono molte le evidenze riportate in letteratura che mostrano che l'impiego della nutrizione artificiale non \`e privo di effetti collaterali e rischi per il paziente. \`e compito del medico informare il paziente o i familiari di questi rischi e valutare se per il paziente la nutrizione artificiale \`e associata a pi\`u benefici rispetto ai rischi. La scelta dei pazienti che possono beneficiare di questo trattamento deve essere critica e individuale per ogni persona, senza basarsi esclusivamente su protocolli rigidi (Jones B., 2010).
+
+\chapter{Significati psicologici legati all'alimentazione e percezione della nutrizione artificiale a fine vita nella societ\'a}
+\label{sec:SignificatiPsicologici}
+
+\section{Percezione dei parenti dell'alimentazione a fine vita}
+\section{Percezione dei professionisti sanitari della nutrizione artificiale a fine vita}
+\section{Comunicazione con il paziente e con i familiari }
+
+\chapter{Il digiuno e le sue conseguenze nel malato terminale}
+\section{I significati del digiuno}
+\section{L'adattamento fisiologico al digiuno}
+\section{Il digiuno provoca dolore nel malato terminale?}
+\section{Il digiuno accorcia l'aspettativa di vita del malato terminale?}
+
+\chapter{La nutrizione artificiale nei pazienti con demenza avanzata}
+\section{Complicanze associate alla demenza in stato avanzato}
+\section{Diagnosi di malnutrizione}
+\section{Gestione nutrizionale del paziente con demenzia avanzata}
+\section{Indicazioni alla nutrizione e idratazione artificiale nei pazienti con demenza in stato avanzato}
+\section{Considerazioni etiche del Comitato Nazionale per la Bioetica sulle demenze e la malattia d'Alzheimer}
+
+\chapter{Nutrizione artificiale e aspetti di bioetica: Terapia medica o assistenza di base?}
+\section{Introduzione alla bioetica}
+\section{L'evoluzione del rapporto medico-paziente}
+\section{Il dibattito sull'interruzione del supporto nutrizionale artificiale nel paziente terminale}
+\section{La prospettiva utilitarista e la nutrizione artificiale a fine vita}
+\section{La prospettiva contrattualista nella nutrizione artificiale a fine vita}
+\section{La prospettiva personalistica }
+\section{Alcuni principi etici di riferimento }
+
+\chapter{Considerazioni giuridiche}
+\section{ Il rifiuto al trattamento del paziente consapevole }
+\section{La persona incapace e le dichiarazioni anticipate di trattamento in Italia}
+\section{Le dichiarazioni anticipate di trattamento nella prospettiva europea}
+
+\nocite{*} 
+
+
+\end{document}

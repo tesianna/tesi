@@ -1,0 +1,362 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.13)  16 OCT 2012 16:23
+entering extended mode
+**thesis.tex
+(C:\Data\thesis\thesis.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\bk11.clo"
+File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count89
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\frankenstein\achicago.sty"
+Package: achicago 2001/08/31 v1.2 Chicago Manual author-date citations
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\frankenstein\blkcntrl.sty"
+Package: blkcntrl 2001/08/31 v1.2 block control
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\frankenstein\moredefs.sty"
+Package: moredefs 2001/08/31 v1.8 more defining commands (Frankenstein's brain)
+
+\sc@toks@a=\toks17
+\sc@toks@b=\toks18
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\relsize.sty"
+Package: relsize 2003/07/04 ver 3.1
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\frankenstein\slemph.sty"
+Package: slemph 1999/02/25 v1.2 slanted emphasis (Frankenstein's gait)
+LaTeX Info: Redefining \itswitch on input line 177.
+LaTeX Info: Redefining \slswitch on input line 186.
+LaTeX Info: Redefining \textitswitch on input line 195.
+LaTeX Info: Redefining \textslswitch on input line 196.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\frankenstein\slemph.cfg"
+File: slemph.cfg 
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\frankenstein\titles.sty"
+Package: titles 2001/08/31 v1.2 title macros (Frankenstein's references)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\frankenstein\titles.cfg"
+File: titles.cfg 
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks19
+\verbatim@line=\toks20
+\verbatim@in@stream=\read1
+)
+\sc@box@a=\box26
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\charter.sty"
+Package: charter 2005/04/12 PSNFSS-v9.2a (P.Dyballa) 
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\glossary\glossary.sty"
+Package: glossary 2006/07/20 2.4 (NLCT)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\gls@cols=\count90
+
+No configuration file glossary.cfg found
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip43
+\LTright=\skip44
+\LTpre=\skip45
+\LTpost=\skip46
+\LTchunksize=\count91
+\LTcapwidth=\dimen106
+\LT@head=\box27
+\LT@firsthead=\box28
+\LT@foot=\box29
+\LT@lastfoot=\box30
+\LT@cols=\count92
+\LT@rows=\count93
+\c@LT@tables=\count94
+\c@LT@chunks=\count95
+\LT@p@ftn=\toks21
+)
+\descriptionwidth=\skip47
+\istfile=\write3
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count96
+\lst@gtempboxa=\box31
+\lst@token=\toks22
+\lst@length=\count97
+\lst@currlwidth=\dimen107
+\lst@column=\count98
+\lst@pos=\count99
+\lst@lostspace=\dimen108
+\lst@width=\dimen109
+\lst@newlines=\count100
+\lst@lineno=\count101
+\lst@maxwidth=\dimen110
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count102
+\lst@skipnumbers=\count103
+\lst@framebox=\box32
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+\@glossaryfile=\write4
+
+Writing glossary file thesis.glo 
+(C:\Data\thesis\thesis.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Try loading font information for OT1+bch on input line 16.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1bch.fd"
+File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count104
+\scratchdimen=\dimen111
+\scratchbox=\box33
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen112
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
+\everyMPtoPDFconversion=\toks24
+)
+\c@lstlisting=\count110
+ <img/Logo.pdf, id=1, 110.4125pt x 112.42pt>
+File: img/Logo.pdf Graphic file (type pdf)
+ <use img/Logo.pdf>
+Package pdftex.def Info: img/Logo.pdf used on input line 26.
+(pdftex.def)             Requested size: 110.41222pt x 112.41972pt.
+ [1
+
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Data/thesis/img/Logo.p
+df>]
+(C:\Data\thesis\thesis.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
+\tf@toc=\write5
+ [1
+
+] (C:\Data\thesis\thesis.lot)
+\tf@lot=\write6
+ [2
+
+]
+(C:\Data\thesis\thesis.lof)
+\tf@lof=\write7
+ [3
+
+] (C:\Data\thesis\thesis.lol)
+\tf@lol=\write8
+ [4
+
+]
+LaTeX Font Info:    Try loading font information for OMS+bch on input line 41.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsbch.fd"
+File: omsbch.fd 
+)
+LaTeX Font Info:    Font shape `OMS/bch/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+ [1
+
+
+] [2
+
+]
+Chapter 1.
+[3
+
+]
+Overfull \hbox (12.85248pt too wide) in paragraph at lines 96--97
+[][]\OT1/bch/m/n/10.95 The meth-ods sec-tion should an-swer-ing the fol-low-ing
+ ques-tions and caveats: 
+ []
+
+[4]
+Chapter 2.
+[5
+
+]
+Chapter 3.
+[6
+
+]
+Chapter 4.
+[7
+
+]
+Chapter 5.
+[8
+
+]
+Chapter 6.
+[9
+
+]
+Chapter 7.
+[10
+
+]
+Appendix A.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <24.88> on input line 161.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <20.74> on input line 161.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 161.
+<img/ImageA-1-1.png, id=62, 483.8075pt x 467.7475pt>
+File: img/ImageA-1-1.png Graphic file (type png)
+ <use img/ImageA-1-1.png>
+Package pdftex.def Info: img/ImageA-1-1.png used on input line 170.
+(pdftex.def)             Requested size: 290.28674pt x 280.65065pt.
+
+[11
+
+ <C:/Data/thesis/img/ImageA-1-1.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 179.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 179.
+ [12] (C:\Data\thesis\thesis.bbl
+[13]) [14
+
+] (C:\Data\thesis\thesis.aux) ) 
+Here is how much of TeX's memory you used:
+ 4190 strings out of 494045
+ 55582 string characters out of 3145966
+ 193722 words of memory out of 3000000
+ 7404 multiletter control sequences out of 15000+200000
+ 36432 words of font info for 66 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 30i,8n,40p,554b,1767s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvi
+ps/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/bitstrea/char
+ter/bchb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/bitstrea/charter/
+bchr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr
+8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchri8a.
+pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pf
+b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on thesis.pdf (19 pages, 186360 bytes).
+PDF statistics:
+ 114 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
