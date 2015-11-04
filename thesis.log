@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.19)  19 OCT 2015 22:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.19)  25 OCT 2015 12:45
 entering extended mode
 **C:/Users/fabio/Desktop/test/thesis.tex
 (C:/Users/fabio/Desktop/test/thesis.tex
 LaTeX2e <2015/01/01> patch level 2
 Babel <3.9m> and hyphenation patterns for 69 languages loaded.
-(C:\Users\fabio\Downloads\tex\tex\latex\base\book.cls
+(C:\Users\fabio\Desktop\tex\tex\latex\base\book.cls
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-(C:\Users\fabio\Downloads\tex\tex\latex\base\bk11.clo
-File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(C:\Users\fabio\Desktop\tex\tex\latex\base\bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -22,27 +22,27 @@ File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(C:\Users\fabio\Downloads\tex\tex\latex\base\inputenc.sty
+(C:\Users\fabio\Desktop\tex\tex\latex\base\inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(C:\Users\fabio\Downloads\tex\tex\latex\base\latin1.def
+(C:\Users\fabio\Desktop\tex\tex\latex\base\latin1.def
 File: latin1.def 2015/03/17 v1.2c Input encoding file
 ))
-(C:\Users\fabio\Downloads\tex\tex\generic\babel\babel.sty
+(C:\Users\fabio\Desktop\tex\tex\generic\babel\babel.sty
 Package: babel 2015/08/03 3.9m The Babel package
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\fabio\Downloads\tex\tex\latex\00miktex\bblopts.cfg
+(C:\Users\fabio\Desktop\tex\tex\latex\00miktex\bblopts.cfg
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-(C:\Users\fabio\Downloads\tex\tex\latex\babel-english\english.ldf
+(C:\Users\fabio\Desktop\tex\tex\latex\babel-english\english.ldf
 Language: english 2012/08/20 v3.3p English support from the babel system
 
-(C:\Users\fabio\Downloads\tex\tex\generic\babel\babel.def
+(C:\Users\fabio\Desktop\tex\tex\generic\babel\babel.def
 File: babel.def 2015/08/03 3.9m Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
@@ -51,31 +51,31 @@ File: babel.def 2015/08/03 3.9m Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-(C:\Users\fabio\Downloads\tex\tex\latex\graphics\graphicx.sty
+(C:\Users\fabio\Desktop\tex\tex\latex\graphics\graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\fabio\Downloads\tex\tex\latex\graphics\keyval.sty
+(C:\Users\fabio\Desktop\tex\tex\latex\graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(C:\Users\fabio\Downloads\tex\tex\latex\graphics\graphics.sty
+(C:\Users\fabio\Desktop\tex\tex\latex\graphics\graphics.sty
 Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\fabio\Downloads\tex\tex\latex\graphics\trig.sty
+(C:\Users\fabio\Desktop\tex\tex\latex\graphics\trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(C:\Users\fabio\Downloads\tex\tex\latex\00miktex\graphics.cfg
+(C:\Users\fabio\Desktop\tex\tex\latex\00miktex\graphics.cfg
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 94.
 
-(C:\Users\fabio\Downloads\tex\tex\latex\pdftex-def\pdftex.def
+(C:\Users\fabio\Desktop\tex\tex\latex\pdftex-def\pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(C:\Users\fabio\Downloads\tex\tex\generic\oberdiek\infwarerr.sty
+(C:\Users\fabio\Desktop\tex\tex\generic\oberdiek\infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(C:\Users\fabio\Downloads\tex\tex\generic\oberdiek\ltxcmds.sty
+(C:\Users\fabio\Desktop\tex\tex\generic\oberdiek\ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count89
@@ -83,38 +83,38 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-(C:\Users\fabio\Downloads\tex\tex\latex\frankenstein\achicago.sty
+(C:\Users\fabio\Desktop\tex\tex\latex\frankenstein\achicago.sty
 Package: achicago 2001/08/31 v1.2 Chicago Manual author-date citations
 
-(C:\Users\fabio\Downloads\tex\tex\latex\frankenstein\blkcntrl.sty
+(C:\Users\fabio\Desktop\tex\tex\latex\frankenstein\blkcntrl.sty
 Package: blkcntrl 2001/08/31 v1.2 block control
 
-(C:\Users\fabio\Downloads\tex\tex\latex\frankenstein\moredefs.sty
+(C:\Users\fabio\Desktop\tex\tex\latex\frankenstein\moredefs.sty
 Package: moredefs 2001/08/31 v1.8 more defining commands (Frankenstein's brain)
 
 \sc@toks@a=\toks17
 \sc@toks@b=\toks18
 )
-(C:\Users\fabio\Downloads\tex\tex\latex\ltxmisc\relsize.sty
+(C:\Users\fabio\Desktop\tex\tex\latex\ltxmisc\relsize.sty
 Package: relsize 2003/07/04 ver 3.1
 ))
-(C:\Users\fabio\Downloads\tex\tex\latex\frankenstein\slemph.sty
+(C:\Users\fabio\Desktop\tex\tex\latex\frankenstein\slemph.sty
 Package: slemph 1999/02/25 v1.2 slanted emphasis (Frankenstein's gait)
 LaTeX Info: Redefining \itswitch on input line 177.
 LaTeX Info: Redefining \slswitch on input line 186.
 LaTeX Info: Redefining \textitswitch on input line 195.
 LaTeX Info: Redefining \textslswitch on input line 196.
 
-(C:\Users\fabio\Downloads\tex\tex\latex\frankenstein\slemph.cfg
+(C:\Users\fabio\Desktop\tex\tex\latex\frankenstein\slemph.cfg
 File: slemph.cfg 
 ))
-(C:\Users\fabio\Downloads\tex\tex\latex\frankenstein\titles.sty
+(C:\Users\fabio\Desktop\tex\tex\latex\frankenstein\titles.sty
 Package: titles 2001/08/31 v1.2 title macros (Frankenstein's references)
 
-(C:\Users\fabio\Downloads\tex\tex\latex\frankenstein\titles.cfg
+(C:\Users\fabio\Desktop\tex\tex\latex\frankenstein\titles.cfg
 File: titles.cfg 
 ))
-(C:\Users\fabio\Downloads\tex\tex\latex\tools\verbatim.sty
+(C:\Users\fabio\Desktop\tex\tex\latex\tools\verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks19
 \verbatim@line=\toks20
@@ -122,17 +122,17 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 )
 \sc@box@a=\box26
 )
-(C:\Users\fabio\Downloads\tex\tex\latex\psnfss\charter.sty
+(C:\Users\fabio\Desktop\tex\tex\latex\psnfss\charter.sty
 Package: charter 2005/04/12 PSNFSS-v9.2a (P.Dyballa) 
 ) (glossary.sty
 Package: glossary 2004/11/02 2.12 (NLCT)
 
-(C:\Users\fabio\Downloads\tex\tex\latex\base\ifthen.sty
+(C:\Users\fabio\Desktop\tex\tex\latex\base\ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \gls@cols=\count90
 
-(C:\Users\fabio\Downloads\tex\tex\latex\tools\longtable.sty
+(C:\Users\fabio\Desktop\tex\tex\latex\tools\longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip43
 \LTright=\skip44
@@ -153,7 +153,7 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \descriptionwidth=\skip47
 \istfile=\write3
 )
-(C:\Users\fabio\Downloads\tex\tex\latex\listings\listings.sty
+(C:\Users\fabio\Desktop\tex\tex\latex\listings\listings.sty
 \lst@mode=\count96
 \lst@gtempboxa=\box31
 \lst@token=\toks22
@@ -167,66 +167,148 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \lst@lineno=\count101
 \lst@maxwidth=\dimen110
 
-(C:\Users\fabio\Downloads\tex\tex\latex\listings\lstmisc.sty
+(C:\Users\fabio\Desktop\tex\tex\latex\listings\lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \c@lstnumber=\count102
 \lst@skipnumbers=\count103
 \lst@framebox=\box32
 )
-(C:\Users\fabio\Downloads\tex\tex\latex\listings\listings.cfg
+(C:\Users\fabio\Desktop\tex\tex\latex\listings\listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
-(C:\Users\fabio\Downloads\tex\tex\latex\listings\lstlang1.sty
+(C:\Users\fabio\Desktop\tex\tex\latex\listings\lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 \@glossaryfile=\write4
 
 Writing glossary file thesis.glo 
-(thesis.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Try loading font information for OT1+bch on input line 23.
- (C:\Users\fabio\Downloads\tex\tex\latex\psnfss\ot1bch.fd
+(C:\Users\fabio\Desktop\tex\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\fabio\Desktop\tex\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip48
+\f@ncyO@elh=\skip49
+\f@ncyO@erh=\skip50
+\f@ncyO@olh=\skip51
+\f@ncyO@orh=\skip52
+\f@ncyO@elf=\skip53
+\f@ncyO@erf=\skip54
+\f@ncyO@olf=\skip55
+\f@ncyO@orf=\skip56
+)
+(C:\Users\fabio\Desktop\tex\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(C:\Users\fabio\Desktop\tex\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(C:\Users\fabio\Desktop\tex\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(C:\Users\fabio\Desktop\tex\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count104
+\Gm@cntv=\count105
+\c@Gm@tempcnt=\count106
+\Gm@bindingoffset=\dimen111
+\Gm@wd@mp=\dimen112
+\Gm@odd@mp=\dimen113
+\Gm@even@mp=\dimen114
+\Gm@layoutwidth=\dimen115
+\Gm@layoutheight=\dimen116
+\Gm@layouthoffset=\dimen117
+\Gm@layoutvoffset=\dimen118
+\Gm@dimlist=\toks23
+
+(C:\Users\fabio\Desktop\tex\tex\latex\geometry\geometry.cfg)) (thesis.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Try loading font information for OT1+bch on input line 40.
+
+(C:\Users\fabio\Desktop\tex\tex\latex\psnfss\ot1bch.fd
 File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
 )
-(C:\Users\fabio\Downloads\tex\tex\context\base\supp-pdf.mkii
+(C:\Users\fabio\Desktop\tex\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count104
-\scratchdimen=\dimen111
+\scratchcounter=\count107
+\scratchdimen=\dimen119
 \scratchbox=\box33
-\nofMPsegments=\count105
-\nofMParguments=\count106
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count107
-\MPscratchDim=\dimen112
-\MPnumerator=\count108
-\makeMPintoPDFobject=\count109
-\everyMPtoPDFconversion=\toks24
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen120
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
+\everyMPtoPDFconversion=\toks25
 )
-\c@lstlisting=\count110
- [1
+\c@lstlisting=\count113
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 412.56497pt, 71.13188pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=412.56497pt
+* \textheight=674.33032pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=-18.78552pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=38.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+[1
 
 
 
-{C:/Users/fabio/Downloads/tex/pdftex/config/pdftex.map}] (thesis.toc
+{C:/Users/fabio/Desktop/tex/pdftex/config/pdftex.map}] (thesis.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 3.
+(Font)              <12> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
+
+Overfull \hbox (2.17867pt too wide) in paragraph at lines 20--20
+ [][] []\OT1/bch/m/n/12 Considerazioni etiche del Comi-tato Nazionale per la Bi
+oet-ica sulle 
+ []
 
 [1
 
@@ -240,99 +322,93 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ] [3]
 Capitolo 1.
 
-Overfull \hbox (2.31786pt too wide) in paragraph at lines 105--105
-[]\OT1/bch/b/n/14.4 Indicazioni e con-troindi-cazioni alla nu-trizione ar-
+Overfull \hbox (2.01515pt too wide) in paragraph at lines 117--120
+\OT1/bch/m/n/12 bisogni dei nu-tri-enti nelle varie con-dizioni di et[]a, di se
+sso e di vita dell'individuo.
  []
 
 [4
 
 ]
-Overfull \hbox (0.7915pt too wide) in paragraph at lines 120--120
-[]\OT1/bch/b/n/14.4 Indicazioni alla Nu-trizione En-terale e Par-enterale 
+Overfull \hbox (20.385pt too wide) in paragraph at lines 137--137
+[]\OT1/bch/b/n/17.28 Indicazioni alla Nu-trizione En-terale e Par-enterale 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+bch on input line 133.
+LaTeX Font Info:    Try loading font information for OMS+bch on input line 150.
 
-(C:\Users\fabio\Downloads\tex\tex\latex\psnfss\omsbch.fd
+(C:\Users\fabio\Desktop\tex\tex\latex\psnfss\omsbch.fd
 File: omsbch.fd 
 )
-LaTeX Font Info:    Font shape `OMS/bch/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 133.
- [5]
-Overfull \hbox (0.93547pt too wide) in paragraph at lines 138--138
-[]\OT1/bch/b/n/14.4 Complicazioni as-so-ciate alla nu-trizione ar-ti-fi-ciale 
+LaTeX Font Info:    Font shape `OMS/bch/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 150.
+ [5] [6]
+Overfull \hbox (3.18251pt too wide) in paragraph at lines 162--167
+[]\OT1/bch/m/n/12 Le com-pli-cazioni as-so-ciate alla NP sono legate prin-ci-pa
+l-mente all'inserimento
  []
 
-[6]
-Overfull \hbox (20.28676pt too wide) in paragraph at lines 145--150
-[]\OT1/bch/m/n/10.95 Le com-pli-cazioni as-so-ciate alla NP sono legate prin-ci
--pal-mente all'inserimento
- []
-
-[7]
+[7] [8]
 Capitolo 2.
-[8
 
-]
-Capitolo 3.
+Overfull \hbox (5.43787pt too wide) in paragraph at lines 171--171
+[]\OT1/bch/b/n/17.28 Percezione dei par-enti dell'alimentazione a fine
+ []
+
 [9
 
 ]
-Capitolo 4.
+Capitolo 3.
 
-Overfull \hbox (7.94829pt too wide) in paragraph at lines 165--165
-[]\OT1/bch/b/n/14.4 Complicanze as-so-ciate alla de-menza in stato avan-
- []
-
-
-Overfull \hbox (1.69868pt too wide) in paragraph at lines 169--169
-[]\OT1/bch/b/n/14.4 Considerazioni etiche del Comi-tato Nazionale per
- []
-
-
-Overfull \hbox (9.89246pt too wide) in paragraph at lines 169--169
-\OT1/bch/b/n/14.4 la Bioet-ica sulle de-menze e la malat-tia d'Alzheimer 
+Overfull \hbox (18.10408pt too wide) in paragraph at lines 179--179
+[]\OT1/bch/b/n/17.28 Il digiuno ac-cor-cia l'aspettativa di vita del malato
  []
 
 [10
 
 ]
-Capitolo 5.
+Capitolo 4.
 
-Overfull \hbox (29.8218pt too wide) in paragraph at lines 174--174
-[]\OT1/bch/b/n/14.4 Il di-bat-tito sull'interruzione del sup-porto nu-trizional
-e
- []
-
-
-Overfull \hbox (0.8202pt too wide) in paragraph at lines 176--176
-[]\OT1/bch/b/n/14.4 La prospet-tiva con-trat-tual-ista nella nu-trizione ar-
+Overfull \hbox (61.66702pt too wide) in paragraph at lines 186--186
+\OT1/bch/b/n/17.28 per la Bioet-ica sulle de-menze e la malat-tia d'Alzheimer 
  []
 
 [11
 
 ]
-Capitolo 6.
+Capitolo 5.
 [12
+
+]
+Capitolo 6.
+
+Overfull \hbox (0.40938pt too wide) in paragraph at lines 198--198
+[] \OT1/bch/b/n/17.28 Il ri-fi-uto al trat-ta-mento del paziente con-sapev-
+ []
+
+
+Overfull \hbox (2.98405pt too wide) in paragraph at lines 200--200
+[]\OT1/bch/b/n/17.28 Le dichiarazioni an-tic-i-pate di trat-ta-mento nella
+ []
+
+[13
 
 ] (thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 3665 strings out of 493673
- 49815 string characters out of 3143619
- 149085 words of memory out of 3000000
- 6961 multiletter control sequences out of 15000+200000
- 21685 words of font info for 40 fonts, out of 3000000 for 9000
+ 4315 strings out of 493673
+ 58952 string characters out of 3143619
+ 149091 words of memory out of 3000000
+ 7586 multiletter control sequences out of 15000+200000
+ 17362 words of font info for 35 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 29i,5n,40p,885b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/fabio/Downloads/tex/fonts/enc/dvips/fontname/8r.enc}<
-C:/Users/fabio/Downloads/tex/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/
-fabio/Downloads/tex/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/fabio/Dow
-nloads/tex/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/fabio/Downloads/te
-x/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/fabio/Downloads/tex/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on thesis.pdf (15 pages, 80711 bytes).
+ 29i,10n,43p,885b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/fabio/Desktop/tex/fonts/enc/dvips/fontname/8r.enc}<C:
+/Users/fabio/Desktop/tex/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/fabi
+o/Desktop/tex/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/fabio/Desktop/t
+ex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/fabio/Desktop/tex/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on thesis.pdf (16 pages, 73912 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
+ 71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
